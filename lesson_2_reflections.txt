@@ -9,12 +9,12 @@ change?
 	see if we have made a logical change or not
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organised? How would branches help?
 	When we need to try an experimental feature or maybe crate a different version of the app.
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualise the branch structure?
 	by making diagrams we can easily see which commit is reachable how and which branch starts from which commit
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	One branch is deleted and the other branch now also points to the previous branch it kinda joins the tree. 	
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
